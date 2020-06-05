@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Контакти</string>
+    <string name="details">Деталі</string>
+    <string name="add_contact">Додати Контакт</string>
+    <string name="fragment_addorupdate_first_name_hint">Ім\'я</string>
+    <string name="fragment_addorupdate_last_name_hint">Прізвище</string>
+    <string name="main_recycler_item_delete_text">ВИДАЛИТИ</string>
+    <string name="menu_item_add_title">Додати контакт</string>
+    <string name="menu_item_save_title">Зберегти зміни</string>
+    <string name="fragment_main_no_contacts_text">У вас немае контактів. Спробуйте додати кого-небудь</string>
+    <string name="snackbar_invalid_fields">Дані заповнені некоректно. Переконайтеся що дані введені правильно</string>
+</resources>

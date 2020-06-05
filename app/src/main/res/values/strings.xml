@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="details">Details</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="fragment_addorupdate_first_name_hint">First name</string>
+    <string name="fragment_addorupdate_last_name_hint">Last name</string>
+    <string name="fragment_addorupdate_email_hint" translatable="false">Email</string>
+    <string name="main_recycler_item_delete_text">DELETE</string>
+    <string name="menu_item_add_title">Add contact</string>
+    <string name="menu_item_save_title">Save contact</string>
+    <string name="fragment_main_no_contacts_text">You have no contacts. Try to add some</string>
+    <string name="snackbar_invalid_fields">Field validation failed. Make sure the data is entered correctly</string>
+</resources>
